@@ -12,7 +12,7 @@ public class Welcome {
         String name = scanner.nextLine();
 
         //Imprimimos el resultado
-        System.out.println("Hola " + name + ", bienvenida al scanner de Java");
+        System.out.println("Hola " + name + ", bienvenido/a al scanner de Java");
 
         scanner.close();
 
